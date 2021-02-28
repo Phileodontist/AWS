@@ -3,4 +3,4 @@
 
 ## AWS Glue 
 Contains projects that use AWS Glue:
-   * Transforming profile data 
+   * Profile_Data: Transforms profile data, writes to S3 
